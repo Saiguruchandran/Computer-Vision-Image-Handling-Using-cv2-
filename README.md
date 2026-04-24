@@ -1,1 +1,1 @@
-# Reading-and-Displaying-Images-in-Python-cv2-
+# Computer-Vision-Image-Handling-
